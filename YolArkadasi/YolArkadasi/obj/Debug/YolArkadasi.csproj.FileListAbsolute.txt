@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\YolArkadasi\YolArkadasi\bin\Debug\YolArkadasi.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\YolArkadasi\YolArkadasi\bin\Debug\YolArkadasi.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\YolArkadasi\YolArkadasi\bin\Debug\YolArkadasi.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\YolArkadasi\YolArkadasi\obj\Debug\YolArkadasi.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\YolArkadasi\YolArkadasi\obj\Debug\YolArkadasi.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\YolArkadasi\YolArkadasi\obj\Debug\YolArkadasi.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\YolArkadasi\YolArkadasi\obj\Debug\YolArkadasi.pdb
